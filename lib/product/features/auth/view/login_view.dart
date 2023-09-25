@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 import 'package:technical_service_app/product/features/auth/view/login_view_mobile.dart';
-import 'package:technical_service_app/product/features/auth/view/tablet_login_view.dart';
+import 'package:technical_service_app/product/features/auth/view/login_view_tabletdesktop.dart';
 
 class LoginView extends StatelessWidget {
   const LoginView({super.key});
